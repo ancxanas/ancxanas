@@ -26,5 +26,10 @@
  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45"/>
  </p>
+  
+  <h2>Github stats</h2>
+  
+  [![My Github stats](https://github-readme-stats.vercel.app/api?username=ancxanas&theme=dark&show_icons=true)
+)](https://github.com/ancxanas/github-readme-stats)
 
 
