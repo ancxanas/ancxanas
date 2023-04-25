@@ -1,4 +1,4 @@
-![Header](./header-image.png)
+
 
 <h2>Tools and Technologies<h2>
   <p>
