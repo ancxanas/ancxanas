@@ -30,8 +30,7 @@
   <h2>Github stats</h2>
   
   
-  [![My Github stats](https://github-readme-stats.vercel.app/api?username=ancxanas&theme=dark&show_icons=true)
-](https://github.com/ancxanas/github-readme-stats)
+ 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancxanas&theme=dark&show_icons=true&layout=compact)](https://github.com/ancxanas/github-readme-stats)
   
